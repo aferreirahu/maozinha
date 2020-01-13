@@ -1,0 +1,2 @@
+import usuarioreservas
+usuarioreservas.adicionar_usuario()
